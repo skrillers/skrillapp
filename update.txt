@@ -1,5 +1,5 @@
 {
-  "update": "Yes",
+  "update": "No",
   "new_version": "2.0.3",
   "apk_file_url": "https://github.com/skrillers/skrillapp/blob/master/Skrilltv-v2.0.2.apk?raw=true",
   "update_log": "1，Added \r\n2, add vip authentication. \r\n3, distinguish between custom consumption, no limit for one hour.\r\n4, add abandon task interface, not generated within hours.\r\n5, the consumer task is generated manually.\n",
