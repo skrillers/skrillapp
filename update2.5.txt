@@ -1,9 +1,9 @@
 {
-  "update": "No",
-  "new_version": "2.0.3",
-  "apk_file_url": "https://github.com/skrillers/skrillapp/blob/master/Skrilltv-v2.0.2.apk?raw=true",
-  "update_log": "1，Add delete credit card interface.\r\n2, add vip authentication. \r\n3, distinguish between custom consumption, no limit for one hour.\r\n4, add abandon task interface, not generated within hours.\r\n5, the consumer task is generated manually.\n",
-  "target_size": "10.5M",
+  "update": "Yes",
+  "new_version": "2.0.5",
+  "apk_file_url": "https://github.com/skrillers/skrillapp/blob/master/Skrilltv-v2.0.5.apk?raw=true",
+  "update_log": "1，Fixed known bugs\r\n2,Some UI Changes.\r\n3,Added New Quality Settings.\r\n4,Added New Download Dialog\r\n5,Change Some Player UI.\r\n6,Added New Lock Unlock System\r\n7,Added New Icons\r\n8,Added New Series Download System.\r\n9,Added New IMDb Rating System\r\n10,Added New Player Movie&Series Title.\n",
+  "target_size": "11.4M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
-  "constraint": false
+  "constraint": true
 }
