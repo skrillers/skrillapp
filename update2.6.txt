@@ -5,5 +5,5 @@
   "update_log": "1，Fixed known bugs\r\n2,Some UI Changes.\r\n3,Added New Quality Settings.\r\n4,Added New Download Dialog\r\n5,Change Some Player UI.\r\n6,Added New Intro System\r\n7,Added New Icons\r\n8,Added New Request System.\r\n9,Added New Slider System\r\n10,Added New giveaways.\n",
   "target_size": "11.9M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
-  "constraint": false
+  "constraint": true
 }
