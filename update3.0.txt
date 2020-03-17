@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "3.1",
+  "apk_file_url": "https://github.com/skrillers/skrillapp/blob/master/Skrilltv-v3.1.apk?raw=true",
+  "update_log": "1， Major bugs fixed \r\n2， Added external player \r\n3， No internet crash problem Fixed \n",
+  "target_size": "12.3M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": false
+}
