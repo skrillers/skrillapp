@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "3.2",
+  "apk_file_url": "https://github.com/skrillers/skrillapp/blob/master/Skrilltv-v3.2.apk?raw=true",
+  "update_log": "1， Major bugs fixed \r\n2， New Series Section Updated \r\n3， Logo Changed \r\n  (NOTICE):- if app not install in your phone then uninstall old version of skrilltv app and download new version from https://skrilltv.co/ \n",
+  "target_size": "12.5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": true
+}
