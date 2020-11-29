@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "4.0",
+  "apk_file_url": "https://skrilltv.co/skrilltv_4.0.apk",
+  "update_log": "Full New App \r\n  (NOTICE):- Install New Version Of Skrilltv App Then uninstall old version of skrilltv app and download new version from https://skrilltv.co/ \n",
+  "target_size": "12.5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": true
+}
